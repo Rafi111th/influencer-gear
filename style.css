@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: 'Roboto';
+}
+.welcome{
+    margin-left: 5%;
+}
+
+header{
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+#main-camera{
+    margin-left: 10%;
+}
